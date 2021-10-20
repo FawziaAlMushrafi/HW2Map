@@ -13,7 +13,7 @@ fun main() {
     val colorcara = mutableListOf(" car1" to "Black", "car2" to "white", "car3" to "silver")
     println(colorcara)
     //Add one element
-    colorcara.add() //whyyyy?? 
+    colorcara.add() //whyyyy??
     //Add one element
 
 
